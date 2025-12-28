@@ -6,7 +6,6 @@ export default function Home() {
         <main className="">
       <div className=" relative overflow-hidden h-auto lg:max-h-[60vh]">
         <SearchArea />
-        <ChartArea />
       </div>
     </main>
   );
